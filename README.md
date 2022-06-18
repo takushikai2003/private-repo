@@ -1,7 +1,7 @@
 # private-repo
 
-# {username}.github.io
-https://{username}.github.io/
+# takushikai2003.github.io
+https://takushikai2003.github.io/
 
 ## markdown-samples
 
