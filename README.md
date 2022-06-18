@@ -16,7 +16,7 @@ https://takushikai2003.github.io/
 1. 333
 
 ### link
-[google serach](httpe:google.com)
+[google search](https:google.com)
 
 ### table
 | todo | date |
